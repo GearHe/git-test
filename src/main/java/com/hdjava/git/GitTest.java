@@ -9,12 +9,15 @@ public class GitTest {
         System.out.println("hello git!");
         System.out.println("hello git2!");
         System.out.println("hello git3!");
+        System.out.println("idea修改04");
         System.out.println("hello git4!");
         System.out.println("master test!");
         System.out.println("hot-fix test!");
         System.out.println("push test!");
         System.out.println("pull test!");
+        System.out.println("idea修改01");
         System.out.println("pushgitee test!");
         System.out.println("pullgitee test!");
+        System.out.println("idea修改02");
     }
 }
